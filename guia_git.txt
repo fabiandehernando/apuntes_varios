@@ -1,0 +1,31 @@
+#Apuntes git para no olvidar
+
+Crear una carpeta
+
+git init
+git clone "url del repositorio"
+#Nos autentificamso (enlazamos la parte local con el remoto) 
+#Creamos un fichero, carpeta etc...
+git add "nombre del fichero ya creado"
+git commit -m "mensaje (confirmar el combio) [DE FORMA LOCAL]" 
+git config --global user.name "nombre de usuario"
+git config --global user.email "email"
+
+git status "para ver que nos funciona"
+
+#Subir archivos al git
+git pull "bajar los cambios de git"
+git push origin main "subir los cambios a git"
+
+-Nos autentificamos y se subira
+
+#Ramas
+#Crear ramas son ramas para trabajar de diferentes formas
+git branch "creamos rama" 
+git checkout "nos posiscionamos baja la nueva rama"
+#Para juntarl el branch y el checkout usamos:
+	-git branch "creamos rama" -d "nombre de la rama"
+git marge "rama_creada" #borrar rama
+git fetch ""
+
+
