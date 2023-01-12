@@ -1,3 +1,13 @@
 #Abreviaturas
     - PK => Primary Key
     -NN => Not Null
+
+#Guia para el mysql
+    -sudo service mysql stop
+    -sudo mkdir -p /var/run/sqld
+    -sudo chown mysql:mysql /var/run/sqld
+    -sudo /usr/bin/mysql --skip-grant-tables --skip-networking &mysql -u root
+    -mysql> FLUSH PRIVILEGES;
+    -mysql> USE mysql;
+    -mysql UPDATE user SET authentication_string=PASSWORD("dam2023") WHERE
+    -User='root';
