@@ -14,3 +14,21 @@
     -User='root';
     -ALTER USER 'root'@'localhost' IDentifed;
     -by 'dam2023'
+
+    #Crear usuario e ingresar a la Base de datos
+    -mysql> Create user 'alumno'@'localhost' identified
+        -> by 'dam2023'
+        -> \q
+    #En la terminal (fuera del mysql)
+    mysql -u alumno -p
+
+#apuntes mysql
+sudo mysql -u root
+mysql>USE mysql;
+mysql>alter user 'root'@'localhost' identified by 'contraseña';
+mysql>flush privileges;
+mysql>create user 'alumno'@'localhost' identified by 'dam2023';
+mysql>flush privileges;
+mysql>\q #para salir del mysql
+mysql -u alumno -p #ingresar con el usuario y contraseña que hemos creado
+#y ya estartia
