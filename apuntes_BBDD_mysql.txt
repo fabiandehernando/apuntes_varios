@@ -32,3 +32,11 @@ mysql>flush privileges;
 mysql>\q #para salir del mysql
 mysql -u alumno -p #ingresar con el usuario y contraseña que hemos creado
 #y ya estartia
+
+#Concectarnos al worbench por terminal
+sudo snap connect mysql-workbench-community:password-manager-service  :password-manager-service
+
+#En el workbench
+    -Le ponemos un nombre
+    - Ponemos el nombre de usuario que hemos creado.
+    - Le ponemos la contraseña que hemos puesto.
