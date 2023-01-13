@@ -208,4 +208,10 @@
 		word processing program:
 		font:
 		yet:
+		type write:
+		stylish:
+		toolbars:
+		eliminates:
+		issues:
+		dozen:
 		
