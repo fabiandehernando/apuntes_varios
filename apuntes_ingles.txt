@@ -208,10 +208,39 @@
 		word processing program:
 		font:
 		yet:
-		type write:
+		type write: comando de escritura
 		stylish:
 		toolbars:
 		eliminates:
 		issues:
 		dozen:
-		
+		macro (no tiene traduccione)
+		layout: diseño.
+		spell check: correccion.
+		patter: 
+
+	#Question
+		3
+			1 - macro
+			2 - compatibility
+			3 - word processing program
+			4 - format
+			5 - document
+			6 - layout
+			7 - font
+			8 - spell check
+
+		4
+			1 - b			
+			2 - c 
+			3 - b
+ 		
+		#Listening 7
+			1 - 
+			2 -	
+			3 - 
+			4 - 
+			5 - 
+			6 - 
+
+	#Gramar	
