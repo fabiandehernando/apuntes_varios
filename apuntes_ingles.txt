@@ -1,0 +1,211 @@
+#T1
+	#Vocabulario
+		quality assureance:	
+		data processing:
+		information security:
+		hardware:
+		techinal support:
+		Encoding online:
+		employees: 
+		increasing:
+		
+	#Vocabulario Ej3.
+	1 - G
+	2 - I
+	3 - B
+	4 - F 
+	5 - J
+	6 - C
+	7 - H
+	8 - D
+	9 - E
+	10 - A
+	
+	#Listening
+	#7
+		restactro
+		information securyti
+		transfer
+		think about
+		
+#T2
+	#Vocabulario
+		PDA: portatil mas pequeño
+		desktop computers: ordenador de sobremesa
+		workstations: estación de trabajo/
+		laptops: portatil
+		handheld PC: portatil
+		cell phone: telefono (de mano)
+		supercomputer: superordenador
+		mainframe: servidor (principal
+		borrow: reutilizar/reusar (algo...)
+		
+		
+		
+	#Question
+	2.
+		1.B
+		2.D
+		3.D
+	3
+		1.PDA
+		2.laptopd
+		3.desktrop computer
+		4.Computer
+		5.handeld PC
+		6.server
+		7.supercomputer
+		
+	4
+		workstation.B
+		mainfrane.A
+		cell phone.C
+		
+#T3
+	#Vocabulario
+		heat sink: disipador
+		fan: ventilador
+		expansion cards: tarjetas de expansion 
+		Attach: unir
+		gather: reubir
+		case: caja/torre
+		motherboard: placa base.
+		hard drive: disco duro.
+		power supply: fuente de alimentación.
+		
+	#Question
+	2.
+		1.A
+		2.C
+		3.A
+		
+		
+#T4
+	#Vocabulario
+		device:
+		input device:
+		computing device:
+		scroll wheel: rueda de ratón
+		printer:
+		touch screen: pantalla tactil.
+		wireless: cable raton.
+		mouse map:
+		our: nuestro (pronombre posesivo).
+		crisp: nitido
+		fingertip: tocar con el dedo del movil.
+		
+		
+	#Question
+		2.
+			1.F
+			2.T
+			3.F
+			
+		3.
+			A-3
+			B-5
+			C-4
+			D-1
+			D-2
+			
+		4.
+			1.	
+				B
+			2.
+				B
+			3.
+				A
+			4.
+				B
+			5.
+				B
+				
+		7.Lisening
+			1.upgrade
+			2.enter
+			3.touch screens
+			4.peripherals
+			5.printer
+			
+			
+#T5
+
+	#Vocabulary
+		take up: ocupar
+		trouble: problemas
+		trouble shouting: solucionar problemas
+		CYCLE: REINICIAR ALGO
+
+	#Question
+		2.
+			1-B
+			2-A
+			3-B
+			
+		
+		3.	
+			1 The  ROUTER lets a network connect to the Internet.
+			2 A LAN is a type of NETWORK
+			3 Businesses communicate on the INTERNET.
+			4 We do not use cables for our network. We
+			have a WLAN.
+			5 Routers need a correct CONFIGURATION to work
+			properly.
+			6 Businesses with a LAN use CAT-5 CABLR to
+			connect computers.
+			7 It is sometimes necessary to CYCLE a
+			network to make it work.
+			8 The DHCP provides different IP
+			addresses for computers.
+
+	#lISTENING
+	  
+		6
+			1-
+			2-
+	
+	
+		7
+			1. router
+			2. network
+			3. support
+			4. connects computers
+			5. apart
+	
+			
+#T6
+	#Vocabulary
+		
+		Icon:
+		GUI (graphical user interface):
+		Pointer:
+		Shorcut:
+		Folders:
+		Minimize:
+		Maximize:
+		
+	#Question
+		2.
+			1-B
+			2-C
+			3-A
+		
+		3.
+			1 - pointer
+			2 - desktop
+			3 - OS
+			4 - Gui
+			5 - windows
+			
+			
+#T7
+	#Vocabulary
+
+		format:
+		spell check:
+		document:
+		template:
+		word processing program:
+		font:
+		yet:
+		
