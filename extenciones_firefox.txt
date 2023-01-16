@@ -1,0 +1,5 @@
+#Extenciones
+    - Tabliss
+    - User-Agent Switcher and Manager
+    - AdBlocker Ultimate
+    - Wappalyzer
