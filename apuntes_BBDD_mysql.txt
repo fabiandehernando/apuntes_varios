@@ -3,17 +3,17 @@
     -NN => Not Null
 
 #Guia para el mysql (Bea 12/01/2023)
-    -sudo service mysql stop
-    -sudo service mysql start
-    -sudo mkdir -p /var/run/sqld
-    -sudo chown mysql:mysql /var/run/sqld
-    -sudo /usr/bin/mysql --skip-grant-tables --skip-networking &mysql -u root
-    -mysql> FLUSH PRIVILEGES;
-    -mysql> USE mysql;
-    -mysql UPDATE user SET authentication_string=PASSWORD("dam2023") WHERE
-    -User='root';
-    -ALTER USER 'root'@'localhost' IDentifed;
-    -by 'dam2023'
+        -sudo service mysql stop
+        -sudo service mysql start
+        -sudo mkdir -p /var/run/sqld
+        -sudo chown mysql:mysql /var/run/sqld
+        -sudo /usr/bin/mysql --skip-grant-tables --skip-networking &mysql -u root
+        -mysql> FLUSH PRIVILEGES;
+        -mysql> USE mysql;
+        -mysql UPDATE user SET authentication_string=PASSWORD("dam2023") WHERE
+        -User='root';
+        -ALTER USER 'root'@'localhost' IDentifed;
+        -by 'dam2023'
 
     #Crear usuario e ingresar a la Base de datos
     -mysql> Create user 'alumno'@'localhost' identified
@@ -23,15 +23,15 @@
     mysql -u alumno -p
 
 #apuntes mysql
-sudo mysql -u root
-mysql>USE mysql;
-mysql>alter user 'root'@'localhost' identified by 'contraseña';
-mysql>flush privileges;
-mysql>create user 'alumno'@'localhost' identified by 'dam2023';
-mysql>flush privileges;
-mysql>\q #para salir del mysql
-mysql -u alumno -p #ingresar con el usuario y contraseña que hemos creado
-#y ya estartia
+    sudo mysql -u root
+    mysql>USE mysql;
+    mysql>alter user 'root'@'localhost' identified by 'contraseña';
+    mysql>flush privileges;
+    mysql>create user 'alumno'@'localhost' identified by 'dam2023';
+    mysql>flush privileges;
+    mysql>\q #para salir del mysql
+    mysql -u alumno -p #ingresar con el usuario y contraseña que hemos creado
+    #y ya estartia
 
 #Concectarnos al worbench por terminal
 sudo snap connect mysql-workbench-community:password-manager-service  :password-manager-service
