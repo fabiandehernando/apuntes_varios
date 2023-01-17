@@ -37,6 +37,9 @@
 sudo snap connect mysql-workbench-community:password-manager-service  :password-manager-service
 
 #En el workbench
-    -Le ponemos un nombre
+    - Le ponemos un nombre
     - Ponemos el nombre de usuario que hemos creado.
     - Le ponemos la contraseña que hemos puesto.
+
+#workbench
+    - 
